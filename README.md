@@ -17,4 +17,12 @@ Hospital Management System using MySQL, Php and Bootstrap
 
 ### Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
+
+
+### This projects show the functionality of :
+The  solution contains for healthcare management system is that it provide a platform for the patients to book their appointments with the respective doctors in a particular Hospital and manage some clinical data.
+It provide Insurance policies that will be notified automatically to the eligible patients, Prescription details and bill details are saved in the pdf format, Three types of users can access the website and authentication have been used.
+
+
+
   
